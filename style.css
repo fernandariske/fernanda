@@ -8,3 +8,5 @@
 .camisas{text-align:center;font-weight:700; font-size:20px;}
 .camisas{text-align: center;color: black;}
 .rodape{background-color: #0b455c;color: white; display: flex; justify-content: space-around;}
+.imagem-brinquedos{width: 180px;height: 130px;}
+.brinquedos-div{display: inline-block;}
